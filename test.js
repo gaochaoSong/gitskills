@@ -1,5 +1,5 @@
 function hello() {
-	var a = 1;
+	var a = 3;
 	var b = 2;
 	sdf sdfa
 	
@@ -8,5 +8,5 @@ function hello() {
 	var obj={hello:Sadf,tt:min}
 	
 	
-	return a;
+	return a + b;
 }
