@@ -9,6 +9,5 @@ function hello() {
 	
 	
 	return a + b;
-
-	t1;
+	‘conflict merge’
 }
