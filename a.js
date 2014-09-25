@@ -7,7 +7,6 @@ function hello() {
 	
 	var obj={hello:Sadf,tt:min}
 	
-
-	return a + b34;
-
+	
+	return a + b2; //modify2 change here
 }
