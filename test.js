@@ -8,5 +8,5 @@ function hello() {
 	var obj={hello:Sadf,tt:min}
 	
 	
-	return a + b4;
+	return a + b34;
 }
