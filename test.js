@@ -8,6 +8,5 @@ function hello() {
 	var obj={hello:Sadf,tt:min}
 	
 	
-	return a + b;
-	‘conflict merge’
+	return a + b2; //modify2 change here
 }
